@@ -1,0 +1,22 @@
+[
+    {
+        "name":"原神1",
+        "icon":"Icons\\launcher.ico",
+        "path":"C:\\Program Files\\Genshin Impact\\launcher.exe"
+    },
+    {
+        "name":"原神2",
+        "icon":"Icons\\launcher.ico",
+        "path":"C:\\Program Files\\Genshin Impact\\launcher.exe"
+    },
+    {
+        "name":"原神3",
+        "icon":"Icons\\launcher.ico",
+        "path":"C:\\Program Files\\Genshin Impact\\launcher.exe"
+    },
+    {
+        "name":"原神4",
+        "icon":"Icons\\launcher.ico",
+        "path":"C:\\Program Files\\Genshin Impact\\launcher.exe"
+    }
+]
