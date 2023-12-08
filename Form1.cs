@@ -152,9 +152,9 @@ namespace TouchPad
             //判断按下的键（Alt + A）
             if (e.KeyValue == (int)Keys.T && (int)Control.ModifierKeys == (int)Keys.Alt)
             {
-                this.Visible = false;
+                //this.Visible = false;
                 this.WindowState = FormWindowState.Maximized;
-                this.Visible = true;
+                //this.Visible = true;
                 //System.Windows.Forms.MessageBox.Show("按下了指定快捷键组合");
             }
 
