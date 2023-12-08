@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wczhuo\\source\\repos\\TouchPad\\TouchPad.csproj": {}
+    "D:\\workspace\\TouchPad\\TouchPad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wczhuo\\source\\repos\\TouchPad\\TouchPad.csproj": {
+    "D:\\workspace\\TouchPad\\TouchPad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wczhuo\\source\\repos\\TouchPad\\TouchPad.csproj",
+        "projectUniqueName": "D:\\workspace\\TouchPad\\TouchPad.csproj",
         "projectName": "TouchPad",
-        "projectPath": "C:\\Users\\wczhuo\\source\\repos\\TouchPad\\TouchPad.csproj",
-        "packagesPath": "C:\\Users\\wczhuo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wczhuo\\source\\repos\\TouchPad\\obj\\",
+        "projectPath": "D:\\workspace\\TouchPad\\TouchPad.csproj",
+        "packagesPath": "C:\\Users\\wczhu\\.nuget\\packages\\",
+        "outputPath": "D:\\workspace\\TouchPad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\wczhuo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wczhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

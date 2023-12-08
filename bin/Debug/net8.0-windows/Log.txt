@@ -1,0 +1,5 @@
+========= TestMem5 Log File =========
+Customize: Default @serj
+The program in compatibility mode,
+need to run with Administrator privileges!
+Start testing at 14:47, 928Mb x13

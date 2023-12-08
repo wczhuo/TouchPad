@@ -1,22 +1,57 @@
 [
     {
-        "name":"原神1",
+        "name":"原神",
         "icon":"Icons\\launcher.ico",
         "path":"C:\\Program Files\\Genshin Impact\\launcher.exe"
     },
     {
-        "name":"原神2",
-        "icon":"Icons\\launcher.ico",
-        "path":"C:\\Program Files\\Genshin Impact\\launcher.exe"
+        "name":"Android Studio",
+        "icon":"Icons\\studio.png",
+        "path":"C:\\Program Files\\Android\\Android Studio\\bin\\studio64.exe"
     },
     {
-        "name":"原神3",
-        "icon":"Icons\\launcher.ico",
-        "path":"C:\\Program Files\\Genshin Impact\\launcher.exe"
+        "name":"Photoshop",
+        "icon":"Icons\\Photoshop.ico",
+        "path":"C:\\Program Files\\Adobe\\Adobe Photoshop 2023\\Photoshop.exe"
     },
     {
-        "name":"原神4",
-        "icon":"Icons\\launcher.ico",
-        "path":"C:\\Program Files\\Genshin Impact\\launcher.exe"
+        "name":"TestMem5",
+        "icon":"Icons\\TM5.ico",
+        "path":"D:\\tools\\TestMem5v0.1\\TM5.exe"
+    },
+    {
+        "name":"ApiPost7",
+        "icon":"Icons\\ApiPost7.ico",
+        "path":"C:\\Program Files\\ApiPost7\\ApiPost7.exe"
+    },
+    {
+        "name":"hosts",
+        "icon":"Icons\\txt.ico",
+        "path":"C:\\Windows\\System32\\drivers\\etc\\hosts"
+    },
+    {
+        "name":"D盘",
+        "icon":"Icons\\folder.ico",
+        "path":"D:\\"
+    },
+    {
+        "name":"ApiPost7",
+        "icon":"Icons\\ApiPost7.ico",
+        "path":"C:\\Program Files\\ApiPost7\\ApiPost7.exe"
+    },
+    {
+        "name":"ApiPost7",
+        "icon":"Icons\\ApiPost7.ico",
+        "path":"C:\\Program Files\\ApiPost7\\ApiPost7.exe"
+    },
+    {
+        "name":"ApiPost7",
+        "icon":"Icons\\ApiPost7.ico",
+        "path":"C:\\Program Files\\ApiPost7\\ApiPost7.exe"
+    },
+    {
+        "name":"ApiPost7",
+        "icon":"Icons\\ApiPost7.ico",
+        "path":"C:\\Program Files\\ApiPost7\\ApiPost7.exe"
     }
 ]

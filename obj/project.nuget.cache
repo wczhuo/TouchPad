@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fHFdkONCePldzsCKdNyGONcPnvyB7Eibc30nNnGBB8fQ79Hzsfj9fjbHoKcCn2/pCTR1rlgMFCHb/uKiNU4WMw==",
+  "dgSpecHash": "TZctlWZ8RLMoJd1LxQSbGQNj7bqaZ0nMCtzsugmzxda4wwz7Q/D9beZIT/6Nbxs0SiHCpqW0x3T3Zi6MIww/Zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wczhuo\\source\\repos\\TouchPad\\TouchPad.csproj",
+  "projectFilePath": "D:\\workspace\\TouchPad\\TouchPad.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wczhuo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\wczhu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
